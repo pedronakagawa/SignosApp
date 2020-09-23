@@ -1,0 +1,23 @@
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .icone button {
+        font-size: 10px;
+    }
+    .icone span {
+        font-size: 1em;
+    }
+    section h1 {
+        font-size: 75px;
+    }
+}
+
+@media only screen and (max-width: 479px) {
+    .icone button {
+        font-size: 8px;
+    }
+    .icone span {
+        font-size: .7em;
+    }
+    section h1 {
+        font-size: 75px;
+    }
+}
